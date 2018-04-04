@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=kapuas.PrjPcb
+[Project2]
+ProjectPath=..\..\..\Models, Footprints, etc\Custom Libs - Maddog.LibPkg
